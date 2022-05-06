@@ -3,7 +3,6 @@
 const carrito = document.querySelector("#carrito");
 const listaCarrito = document.querySelector("#lista-carrito tbody");
 const vaciarCarrito = document.querySelector("#vaciar-carrito");
-
 const listaCursos = document.querySelector("#lista-cursos");
 
 let carritoCompras = [];
